@@ -10,7 +10,7 @@ const quintaNota  = parseFloat(readline.question('Nota 5 '))
 
 
 
-// const media = console.log(((primeiraNota + segundaNota + terceiraNota + quartaNota + quintaNota)/5))
+
 // para ser aprovada a média tem que ser maior ou igual 7 - media > 7 aprovada
 // para ser reprovada a média tem que ser menor que media < 5 reprovada
 // para ir para recuperação a média tem que ser maior ou igual a 5 e menor que 7     media >=5 && < 7 recuperação
