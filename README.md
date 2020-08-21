@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./assets/imagem.png" alt="ilustração de mulher comprando online" width="170">
+  <img src="./assets/imagem.png" alt="ilustração de computador" width="170">
   <br>
     <br>
         Estudando Node.js
